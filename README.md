@@ -15,4 +15,5 @@ Entre as bibliotecas utilizadas estão:
 Essas ferramentas ajudaram a construir uma aplicação robusta e bem desenhada, mantendo o código organizado e fácil de manter. Este conjunto de bibliotecas contribuiu significativamente para o sucesso do projeto, e continuará a ser uma parte integral do mesmo no futuro.
 
 🛠️ Abrir e rodar o projeto
+
 Para executar o programa em sua IDE local, basta realizar o comando npm i, para baixar as dependências do nosso timer, e em seguida executar o comando npm run dev.
